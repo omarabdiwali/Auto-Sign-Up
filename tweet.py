@@ -1,8 +1,6 @@
 #libraries used
-import tweepy, requests, datanews, sqlite3
-import datetime
+import tweepy
 import os
-from time import sleep
 from dotenv import load_dotenv
 
 load_dotenv()
